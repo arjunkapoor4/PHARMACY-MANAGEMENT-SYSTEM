@@ -1,0 +1,12 @@
+Supplier Name: rohan
+Phone Number: 996548745
+
+Supplier Name: tarun
+Phone Number: 99658745
+
+Supplier Name: Paul
+Phone Number: 230102031
+
+Supplier Name: Pop
+Phone Number: 999012321
+
