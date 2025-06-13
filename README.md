@@ -17,3 +17,6 @@ Patient Records: Maintain patient profiles with disease and contact data.
 Login System: Secure access with a simple username/password mechanism.
 
 Data is stored in structured text files, and the system uses file handling extensively to simulate a basic database. This project demonstrates practical use of object-oriented programming, file I/O, and console UI design in C++.
+
+NOTE: IF YOU WANT TO ACCESS THE FULL FLEDGED SYSTEM, PLEASE DOWNLOAD THE F_PRO.ZIP AND START USING FROM LOGIN.EXE
+
